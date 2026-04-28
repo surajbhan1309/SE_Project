@@ -1,0 +1,323 @@
+{
+    "AE-AT": [
+        "CAT",
+        "BAT",
+        "HAT",
+        "RAP",
+        "TAP",
+        "MAP",
+        "COMBAT"
+    ],
+    "AE-ACK": [
+        "BACK",
+        "BLACK",
+        "SLACK",
+        "TRACK",
+        "PACK",
+        "STACK",
+        "JACK",
+        "CRACK",
+        "ATTACK"
+    ],
+    "AE-ACT": [
+        "FACT",
+        "ACT",
+        "IMPACT",
+        "REACT",
+        "EXACT",
+        "CONTRACT",
+        "CONTACT"
+    ],
+    "AE-ON": [
+        "DRAGON",
+        "WAGON",
+        "FLAGON",
+        "CANNON",
+        "SALMON"
+    ],
+    "AY-Y": [
+        "MY",
+        "FLY",
+        "SKY",
+        "HIGH",
+        "MULTIPLY",
+        "IDENTIFY",
+        "JUSTIFY",
+        "AMPLIFY"
+    ],
+    "AY-IDE": [
+        "RIDE",
+        "SIDE",
+        "INSIDE",
+        "OUTSIDE",
+        "DECIDE",
+        "PROVIDE",
+        "DIVIDE",
+        "COLLIDE",
+        "OVERRIDE"
+    ],
+    "AY-IME": [
+        "TIME",
+        "RHYME",
+        "CLIMB",
+        "LIFETIME"
+    ],
+    "AY-IND": [
+        "MIND",
+        "GRIND",
+        "REWIND",
+        "BEHIND",
+        "REMIND",
+        "UNWIND"
+    ],
+    "AY-INE": [
+        "SHINE",
+        "DESIGN",
+        "LINE",
+        "FINE",
+        "MINE",
+        "DIVINE",
+        "REFINE",
+        "COMBINE",
+        "ALINE",
+        "DEFINE",
+        "MALIGN",
+        "BENIGN",
+        "RESIGN",
+        "ASSIGN",
+        "SUNSHINE",
+        "TIMELINE",
+        "PIPELINE",
+        "LIFELINE",
+        "HEADLINE",
+        "GUIDELINE",
+        "SKYLINE"
+    ],
+    "AY-ITE": [
+        "SATELLITE",
+        "DYNAMITE"
+    ],
+    "OW-OW": [
+        "FLOW",
+        "GO",
+        "LOW",
+        "SLOW",
+        "SHOW",
+        "KNOW",
+        "OVERFLOW",
+        "UNDERTOW",
+        "TOMORROW",
+        "SORROW",
+        "BORROW",
+        "FOLLOW",
+        "HOLLOW",
+        "SHALLOW",
+        "SWALLOW",
+        "SHADOW",
+        "MEADOW",
+        "WINDOW",
+        "ELBOW",
+        "RAINBOW"
+    ],
+    "OW-ODE": [
+        "CODE",
+        "MODE",
+        "EXPLODE",
+        "EPISODE"
+    ],
+    "OW-OAD": [
+        "ROAD",
+        "DOWNLOAD",
+        "UPLOAD",
+        "OVERLOAD"
+    ],
+    "OW-OLD": [
+        "COLD",
+        "GOLD",
+        "BOLD",
+        "FOLD",
+        "HOLD",
+        "SOLD",
+        "TOLD",
+        "UNFOLD",
+        "BEHOLD",
+        "FORETOLD"
+    ],
+    "OW-OLE": [
+        "CONTROL",
+        "PATROL",
+        "PAROLE",
+        "ENROLL",
+        "CONSOLE"
+    ],
+    "EY-AY": [
+        "STAY",
+        "PLAY",
+        "DAY",
+        "WAY",
+        "SAY",
+        "PAY",
+        "DISPLAY",
+        "DELAY",
+        "DECAY",
+        "ARRAY",
+        "OKAY",
+        "TODAY",
+        "AWAY"
+    ],
+    "EY-AME": [
+        "GAME",
+        "NAME",
+        "SAME"
+    ],
+    "EY-ATE": [
+        "LATE",
+        "GREAT",
+        "FATE",
+        "HATE",
+        "GATE",
+        "RATE",
+        "DATE",
+        "CREATE",
+        "DEBATE",
+        "RELATE",
+        "ESTATE",
+        "INMATE",
+        "UPDATE",
+        "TRANSLATE",
+        "VIBRATE",
+        "MIGRATE",
+        "DICTATE",
+        "ROTATE",
+        "LOCATE",
+        "DONATE",
+        "COLLATE",
+        "INFLATE",
+        "DEFLATE",
+        "AWAIT"
+    ],
+    "EY-APE": [
+        "ESCAPE",
+        "LANDSCAPE",
+        "TAPE",
+        "SHAPE"
+    ],
+    "IY-EE": [
+        "SEE",
+        "ME",
+        "FREE",
+        "BE",
+        "KEY",
+        "MACHINERY",
+        "SCENERY",
+        "ENERGY",
+        "MEMORY",
+        "CENTURY",
+        "HISTORY",
+        "VICTORY",
+        "THEORY",
+        "FAMILY"
+    ],
+    "IY-EET": [
+        "STREET",
+        "HEAT",
+        "BEAT",
+        "FEET",
+        "COMPLETE",
+        "DELETE",
+        "ELITE",
+        "CONCRETE",
+        "DISCREET",
+        "RETREAT",
+        "DEFEAT",
+        "REPEAT",
+        "RECEIPT"
+    ],
+    "IY-EAL": [
+        "REAL",
+        "FEEL",
+        "DEAL",
+        "MEAL",
+        "SEAL",
+        "HEAL",
+        "STEAL",
+        "REVEAL",
+        "CONCEAL",
+        "APPEAL",
+        "IDEAL",
+        "UNREAL",
+        "SURREAL",
+        "REPEAL"
+    ],
+    "IY-EF": [
+        "BELIEF",
+        "RELIEF"
+    ],
+    "EH-ET": [
+        "SET",
+        "GET",
+        "LET"
+    ],
+    "EH-ECK": [
+        "CHECK",
+        "DECK",
+        "NECK"
+    ],
+    "EH-EP": [
+        "STEP",
+        "REP"
+    ],
+    "EH-EXT": [
+        "TEXT",
+        "NEXT"
+    ],
+    "EH-EST": [
+        "BEST",
+        "REST",
+        "TEST",
+        "WEST",
+        "CHEST",
+        "GUEST"
+    ],
+    "EH-ECT": [
+        "RESPECT",
+        "EXPECT",
+        "DETECT",
+        "CONNECT",
+        "DIRECT",
+        "EFFECT",
+        "AFFECT",
+        "PROTECT",
+        "CORRECT",
+        "SELECT",
+        "INJECT",
+        "PROJECT",
+        "REFLECT",
+        "DEFLECT",
+        "NEGLECT",
+        "SUSPECT",
+        "CONCEPT"
+    ],
+    "EH-ERT": [
+        "ASSERT",
+        "EXPERT",
+        "CONVERT",
+        "INSERT",
+        "ALERT",
+        "DESERT",
+        "EFFORT",
+        "COMFORT"
+    ],
+    "EH-ESS": [
+        "ADDRESS",
+        "SUCCESS",
+        "PROCESS",
+        "EXCESS",
+        "ACCESS",
+        "CONGRESS",
+        "PROGRESS",
+        "IMPRESS",
+        "EXPRESS",
+        "DEPRESS"
+    ]
+}
